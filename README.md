@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AayushiGK
 - 👀 I’m interested in MEAN Stack development with Inoic too
 - 🌱 I’m currently learning Ionic
-- 💞️ I’m looking to collaborate on "Lets dissucc it over chat"
+- 💞️ I’m looking to collaborate on "Lets discuss it over chat"
 - 📫 How to reach me "aayushicumar@gmail.com"
 
 <!---
